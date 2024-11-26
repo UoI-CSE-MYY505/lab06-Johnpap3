@@ -1,4 +1,3 @@
-
 .data
 data: .word 1
 
@@ -18,4 +17,3 @@ l7: j    loop
 out: 
 l8: addi x17, x0, 10
 l9: ecall
-
